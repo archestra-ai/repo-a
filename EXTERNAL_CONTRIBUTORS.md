@@ -1,2 +1,0 @@
-- @ildar-second
-- @iskhakov
